@@ -51,7 +51,7 @@ The tool requires SELECT, UPDATE, and DELETE permissions on the `states` and `st
 
 ## Caution
 
-This tool modifies your Home Assistant database directly. Do make a backup before deleting or editing records—deleted state history cannot be recovered, and you'll have no one to blame but yourself if things go pear-shaped.
+This tool modifies your Home Assistant database directly. Make a backup before deleting or editing records. Deleted state history cannot be recovered
 
 ## Is there a sqlite version?
 
